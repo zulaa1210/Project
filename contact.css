@@ -1,4 +1,16 @@
-a:visited {
+ figcaption {
+    color: #33C9D5;
+    }
+ a .gmail {
+    height:200px;
+    width:300px;
+    }
+ img {
+    float:center;
+    height:200px;
+    width:200px;
+    }
+ a:visited {
     color:pink;
     } 
  h1 {

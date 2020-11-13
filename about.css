@@ -1,4 +1,9 @@
-a:visited {
+ img {
+    float:left;
+    height:400px;
+    width:400px;
+    }
+ a:visited {
     color:pink;
     } 
  h1 {
