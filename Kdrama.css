@@ -1,4 +1,7 @@
-figcaption{
+ a:visited {
+    color:pink;
+    }
+ figcaption {
     color: #33C9D5;
     }
  h1 {
