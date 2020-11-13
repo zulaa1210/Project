@@ -1,6 +1,16 @@
+figcaption{
+    color: #33C9D5;
+    }
  h1 {
     text-align:center;
     color: #33C9D5;
+    }
+ dl {
+    padding: 30px;
+    }
+ dt {
+    text-shadow: 1px 1px #33C9D5;
+    font-size: 20px;
     }
  img {
     border: 1px solid black;
