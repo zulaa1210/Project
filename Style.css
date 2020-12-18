@@ -1,0 +1,174 @@
+  body {
+    background-image: url("/자료/logo.jpg");
+    }
+ .register-form {
+    width: 300px;
+    margin: 0 auto;
+    }
+ .register-form input[type="password"],
+ .register-form input[type="password2"],
+ .register-form input[type="email"],
+ .register-form input[type="text"] {
+    width: 100%;
+    padding: 15px;
+    border: 1px solid #dddddd;
+    margin-bottom: 15px;
+    box-sizing:border-box;
+    }
+ .register-form input[type="submit"] {
+    width: 100%;
+    padding: 15px;
+    background-color: #535b63;
+    border: 0;
+    box-sizing: border-box;
+    cursor: pointer;
+    font-weight: bold;
+    color: #ffffff;
+    }
+ .register-form button {
+    width: 100%;
+    padding: 15px;
+    background-color: #535b63;
+    border: 0;
+    box-sizing: border-box;
+    cursor: pointer;
+    font-weight: bold;
+    color: #ffffff;
+    }
+ .login-form {
+    width: 300px;
+    margin: 0 auto;
+    }
+ .login-form input[type="password"],
+ .login-form input[type="text"] {
+    width: 100%;
+    padding: 15px;
+    border: 1px solid #dddddd;
+    margin-bottom: 15px;
+    box-sizing:border-box;
+    }
+ .login-form input[type="submit"] {
+    width: 100%;
+    padding: 15px;
+    background-color: #535b63;
+    border: 0;
+    box-sizing: border-box;
+    cursor: pointer;
+    font-weight: bold;
+    color: #ffffff;
+    }
+  .login-form button {
+    width: 100%;
+    padding: 15px;
+    background-color: #535b63;
+    border: 0;
+    box-sizing: border-box;
+    cursor: pointer;
+    font-weight: bold;
+    color: #ffffff;
+    }
+ h1 {
+    text-align:center;
+    color: #33C9D5;
+    font-family: Tahoma, Geneva, sans-serif;
+    }
+ h2 {
+    text-align: center;
+    color: #ff0000;
+    }
+ figcaption {
+    color: #33C9D5;
+    }
+ a:visited {
+    color:pink;
+    }
+ table {
+    margin-left: auto;
+    margin-right: auto; 
+    }
+ dl {
+    padding: 30px;
+    }
+ dt {
+    text-shadow: 1px 1px #33C9D5;
+    font-size: 20px;
+    }
+ img.kpop {
+    border: 1px solid black;
+    border-radius: 1px;
+    padding: 1px;
+    width: 300px;
+    height: 180px;
+    }
+ img.kdrama {
+    border: 1px solid black;
+    border-radius: 1px;
+    padding: 1px;
+    width: 150px;
+    height: 200px;
+    }   
+ img.contact {
+    float:center;
+    height:100px;
+    width:100px;
+    }
+ img.contactg {
+    float:center;
+    height:100px;
+    width:100px;
+    height:100px; 
+    width:150px;
+    }
+ p.about {
+    text-shadow: 0.5px 0.5px #33C9D5;
+    font-size: 20px;
+    }
+ img.about {
+    float:left;
+    height:400px;
+    width:400px;
+    border-radius: 400px;
+    }
+   .topnav {
+    overflow: hidden;
+    background-color: powderblue;
+    }
+   .topnav a:hover {
+    background-color: pink;
+    color: black;
+    }
+   .topnav a.active {
+    background-color: #33C9D5;
+    color: black;
+    }
+   .topnav a {
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 18px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    }
+   .topnav .search-container {
+    float: right;
+    }
+   .topnav .search-container button {
+    float: right;
+    padding: 15.5px 10px;
+    margin-top: 8px;
+    margin-right: 16px;
+    background: #ddd;
+    font-size: 17px;
+    border: none;
+    cursor: pointer;
+    }
+   .topnav input[type=text] {
+    padding: 6px;
+    margin-top: 8px;
+    font-size: 17px;
+    border: none;
+    }
+   .topnav .search-container button:hover {
+    background: pink;
+    }
